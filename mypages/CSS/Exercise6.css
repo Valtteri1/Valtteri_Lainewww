@@ -1,0 +1,61 @@
+body{
+    background-image: url("E:/Github/Valtteri_Lainewww/mypages/images/Hämeenlinna.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p {
+    color: white;
+    font-size: 20px;
+    text-shadow:
+        0.07em 0 black,
+        0 0.07em black,
+        -0.07em 0 black,
+        0 -0.07em black;
+}
+
+header {
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: orange;
+  }
+
+  footer{
+      background-color: black;
+      text-align: center;
+      color: white;
+      color:orange;
+  }
+
+  .image{
+      float: left;
+
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    background-color: ;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Navigointibarin tausta väri */
+  li a:hover {
+    background-color: #111;
+  }
